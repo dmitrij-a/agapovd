@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Блог Дмитрия Агапова</title>
-    <link>http://agapovd.ru/post/index.xml</link>
-    <description>Recent content in Posts on Блог Дмитрия Агапова</description>
+    <title>Путешествия on Блог Дмитрия Агапова</title>
+    <link>http://agapovd.ru/topics/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F/index.xml</link>
+    <description>Recent content in Путешествия on Блог Дмитрия Агапова</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 22:30:00 +0300</lastBuildDate>
-    <atom:link href="http://agapovd.ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://agapovd.ru/topics/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Иннополис и Казань</title>
