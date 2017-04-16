@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem on Блог Дмитрия Агапова</title>
+    <link>/tags/lorem/</link>
+    <description>Recent content in Lorem on Блог Дмитрия Агапова</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-Ru</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 16 Apr 2017 13:10:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>/post/kazan-april-2017/</link>
+      <pubDate>Sun, 16 Apr 2017 13:10:00 +0300</pubDate>
+      
+      <guid>/post/kazan-april-2017/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consequat porttitor nisl. Maecenas euismod eget mi eget tincidunt. Morbi tincidunt eget nunc at mattis. Donec condimentum felis sit amet tellus dignissim, et ullamcorper lorem rhoncus. Aliquam id convallis metus. Vivamus non diam ut felis congue gravida. Nulla non neque dignissim mauris rutrum aliquam quis eget est. Sed finibus nulla id venenatis aliquet. Donec vel pulvinar velit. Proin eleifend sem erat. Aliquam commodo porta commodo. Donec lacinia pulvinar urna finibus consectetur.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

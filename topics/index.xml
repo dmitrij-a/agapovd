@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Блог Дмитрия Агапова</title>
+    <link>/topics/</link>
+    <description>Recent content in Topics on Блог Дмитрия Агапова</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-Ru</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 16 Apr 2017 13:10:00 +0300</lastBuildDate>
+    
+	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>/topics/lorem-ipsum/</link>
+      <pubDate>Sun, 16 Apr 2017 13:10:00 +0300</pubDate>
+      
+      <guid>/topics/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Блог</title>
+      <link>/topics/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <pubDate>Wed, 12 Apr 2017 22:30:00 +0300</pubDate>
+      
+      <guid>/topics/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Путешествия</title>
+      <link>/topics/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 12 Apr 2017 22:30:00 +0300</pubDate>
+      
+      <guid>/topics/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Фотографии</title>
+      <link>/topics/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/</link>
+      <pubDate>Wed, 12 Apr 2017 22:30:00 +0300</pubDate>
+      
+      <guid>/topics/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
