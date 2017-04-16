@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-Ru</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 16 Apr 2017 13:10:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 22:30:00 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/post/kazan-april-2017/</link>
-      <pubDate>Sun, 16 Apr 2017 13:10:00 +0300</pubDate>
-      
-      <guid>/post/kazan-april-2017/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consequat porttitor nisl. Maecenas euismod eget mi eget tincidunt. Morbi tincidunt eget nunc at mattis. Donec condimentum felis sit amet tellus dignissim, et ullamcorper lorem rhoncus. Aliquam id convallis metus. Vivamus non diam ut felis congue gravida. Nulla non neque dignissim mauris rutrum aliquam quis eget est. Sed finibus nulla id venenatis aliquet. Donec vel pulvinar velit. Proin eleifend sem erat. Aliquam commodo porta commodo. Donec lacinia pulvinar urna finibus consectetur.
-&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Крым. Он просто строит мост к тёще</title>
@@ -43,6 +33,17 @@
       
       <guid>/about/</guid>
       <description>Персональный блог Дмитрия Агапова. Все контакты на панели слева.</description>
+    </item>
+    
+    <item>
+      <title>Иннополис и Казань</title>
+      <link>/post/kazan-april-2017/</link>
+      <pubDate>Sun, 02 Apr 2017 22:30:00 +0300</pubDate>
+      
+      <guid>/post/kazan-april-2017/</guid>
+      <description>&lt;p&gt;Казань - чистый и красивый город. Особый культурный уголок, расположенный в центральной России.
+Казань по праву заслуживает название третьей столицы. Здесь есть всё - и древние памятники архитектуры, и красивые прогулочные зоны, и один из самых больших в России аквапарков.
+&lt;/p&gt;</description>
     </item>
     
     <item>
